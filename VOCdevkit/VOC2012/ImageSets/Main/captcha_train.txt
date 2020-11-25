@@ -1,0 +1,12 @@
+captcha1
+captcha2
+captcha3
+captcha4
+captcha5
+captcha6
+captcha7
+captcha8
+captcha9
+captcha10
+captcha11
+captcha12
