@@ -1,2 +1,2 @@
 # tf2_captcha_test
-Test Tensorflow Objectdetection on Colab
+Test Tensorflow Object Detection on Google Colab
